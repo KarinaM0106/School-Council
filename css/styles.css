@@ -3233,7 +3233,7 @@ img.u-pull-left {
 .s-intro__text-huge {
     --text-huge-size : 20rem;
     font-size        : var(--text-huge-size);
-    line-height      : 1;
+    line-height      : 0.5;
     letter-spacing   : -0.015em;
     margin-top       : calc(var(--text-huge-size) / 2 * -1.2);
     margin-bottom    : var(--vspace-1_25);

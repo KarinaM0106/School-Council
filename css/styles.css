@@ -323,7 +323,7 @@ main {
 }
 
 h1 {
-    font-size : 2em;
+    font-size : 1em;
     margin    : 0.67em 0;
 }
 
@@ -3210,7 +3210,7 @@ img.u-pull-left {
 .s-intro__text {
     z-index    : 2;
     width      : 100%;
-    text-align : center;
+    text-align : center;s-intro__text-huge animate-on-load
     position   : absolute;
     top        : 0;
     left       : 0;
@@ -3219,7 +3219,7 @@ img.u-pull-left {
 .s-intro__text h3 {
     font-family    : var(--font-1);
     font-size      : var(--text-xxxl);
-    font-weight    : 100;
+    font-weight    : 400;
     line-height    : 1.0998;
     letter-spacing : -.01em;
     margin-top     : 0;

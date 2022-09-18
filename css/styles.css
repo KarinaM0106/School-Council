@@ -3219,7 +3219,7 @@ img.u-pull-left {
 .s-intro__text h3 {
     font-family    : var(--font-1);
     font-size      : var(--text-xxxl);
-    font-weight    : 400;
+    font-weight    : 100;
     line-height    : 1.0998;
     letter-spacing : -.01em;
     margin-top     : 0;

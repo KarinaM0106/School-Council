@@ -3195,7 +3195,7 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-intro {
-    padding-top : calc(4.5 * var(--space));
+    padding-top : calc(4 * var(--space));
     width       : 100%;
     position    : relative;
 }
@@ -3223,7 +3223,7 @@ img.u-pull-left {
     line-height    : 1.0998;
     letter-spacing : -.01em;
     margin-top     : 0;
-    color          : white;
+    color          : black;
 }
 
 .s-intro__text h3 span {
